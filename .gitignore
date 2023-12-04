@@ -1,6 +1,9 @@
 **/cached
+
 **/data
 ./cached/connection_deletion_sim_opto_layer4_couplingses_Xcouplingses.pkl
 ./.git/objects/pack/pack-9ae0aa054b10d2466b6c61d7fa02cfb02a8f9d29.pack
 ./.git/objects/1a/72a2268aa22f3ed1021d009010e2220ab15e2f
 ./data/celltype_rate_summary_exptwise_200828.npy
+
+
